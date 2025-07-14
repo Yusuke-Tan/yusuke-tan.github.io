@@ -1,8 +1,7 @@
 {
   "license": "0BSD",
   "main": "index.js",
-  
-  "homepage": "https://Yusuke-Tan.github.io/yusuke-tan.github.io",
+  "homepage": "https://yusuke-tan.github.io/yusuke-tan.github.io/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -19,16 +18,32 @@
     "expo": "~53.0.17",
     "expo-image-picker": "~16.1.4",
     "expo-status-bar": "~2.2.3",
-    "react": "19.0.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
     "react-native": "0.79.5",
     "react-native-calendars": "*",
     "react-native-paper": "4.9.2",
     "react-native-safe-area-context": "5.4.0",
-    "react-native-screens": "~4.11.1"
+    "react-native-screens": "~4.11.1",
+    "react-router-dom": "^7.6.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0",
+    "react-scripts": "^5.0.1"
   },
-  "private": true
+  "private": true,
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
