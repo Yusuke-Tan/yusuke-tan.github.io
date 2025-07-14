@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/yusuke-tan.github.io/static/js/main.cc2812c4.js",
-    "static/media/icon.png": "/yusuke-tan.github.io/static/media/icon.f8efdaf47d34cff65aa1.png",
-    "index.html": "/yusuke-tan.github.io/index.html",
-    "main.cc2812c4.js.map": "/yusuke-tan.github.io/static/js/main.cc2812c4.js.map"
+    "main.js": "/static/js/main.dd1857dd.js",
+    "static/media/icon.png": "/static/media/icon.f8efdaf47d34cff65aa1.png",
+    "index.html": "/index.html",
+    "main.dd1857dd.js.map": "/static/js/main.dd1857dd.js.map"
   },
   "entrypoints": [
-    "static/js/main.cc2812c4.js"
+    "static/js/main.dd1857dd.js"
   ]
 }
